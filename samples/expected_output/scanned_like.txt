@@ -1,0 +1,8 @@
+# scanned_like.png
+
+--- Page 1 (source: ocr) ---
+
+## Scanned Document Sample
+This text was rendered as an image to simulate a scan.
+
+## The pipeline must OCR this instead of reading a text layer.

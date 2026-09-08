@@ -1,0 +1,59 @@
+{
+  "document_id": "0b19321d-f963-4a61-a8c6-cabf5e481c4e",
+  "filename": "scanned_like.png",
+  "page_count": 1,
+  "status": "processed",
+  "error": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "source": "ocr",
+      "status": "ok",
+      "warning": null,
+      "elements": [
+        {
+          "id": "p1_el1",
+          "type": "heading",
+          "text": "Scanned Document Sample",
+          "reading_order": 1,
+          "bbox": [
+            42.0,
+            35.0,
+            470.0,
+            62.0
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el2",
+          "type": "paragraph",
+          "text": "This text was rendered as an image to simulate a scan.",
+          "reading_order": 2,
+          "bbox": [
+            40.0,
+            93.0,
+            537.0,
+            111.0
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el3",
+          "type": "heading",
+          "text": "The pipeline must OCR this instead of reading a text layer.",
+          "reading_order": 3,
+          "bbox": [
+            40.0,
+            133.0,
+            566.0,
+            151.0
+          ],
+          "confidence": null,
+          "table": null
+        }
+      ]
+    }
+  ]
+}

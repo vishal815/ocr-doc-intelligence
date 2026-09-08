@@ -1,0 +1,115 @@
+{
+  "document_id": "1483f6ab-df5b-4fd8-8d82-25489af4aa7e",
+  "filename": "two_column.pdf",
+  "page_count": 1,
+  "status": "processed",
+  "error": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "source": "digital_text_layer",
+      "status": "ok",
+      "warning": null,
+      "elements": [
+        {
+          "id": "p1_el1",
+          "type": "paragraph",
+          "text": "Column A line 1",
+          "reading_order": 1,
+          "bbox": [
+            72.0,
+            81.25,
+            142.57998657226562,
+            94.98999786376953
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el2",
+          "type": "paragraph",
+          "text": "Column A line 2",
+          "reading_order": 2,
+          "bbox": [
+            72.0,
+            101.25,
+            142.57998657226562,
+            114.98999786376953
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el3",
+          "type": "paragraph",
+          "text": "Column A line 3",
+          "reading_order": 3,
+          "bbox": [
+            72.0,
+            121.25,
+            142.57998657226562,
+            134.99000549316406
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el4",
+          "type": "heading",
+          "text": "Two Column Layout Test",
+          "reading_order": 4,
+          "bbox": [
+            72.0,
+            24.8799991607666,
+            262.239990234375,
+            46.9119987487793
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el5",
+          "type": "paragraph",
+          "text": "Column B line 1",
+          "reading_order": 5,
+          "bbox": [
+            320.0,
+            81.25,
+            390.5799865722656,
+            94.98999786376953
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el6",
+          "type": "paragraph",
+          "text": "Column B line 2",
+          "reading_order": 6,
+          "bbox": [
+            320.0,
+            101.25,
+            390.5799865722656,
+            114.98999786376953
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el7",
+          "type": "paragraph",
+          "text": "Column B line 3",
+          "reading_order": 7,
+          "bbox": [
+            320.0,
+            121.25,
+            390.5799865722656,
+            134.99000549316406
+          ],
+          "confidence": null,
+          "table": null
+        }
+      ]
+    }
+  ]
+}

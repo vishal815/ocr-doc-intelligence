@@ -1,0 +1,10 @@
+# table_report.pdf
+
+--- Page 1 (source: digital_text_layer) ---
+
+## Invoice 2026-114
+Billed to: Acme Corp
+
+Item | Qty | Price
+Widget | 5 | $10
+Gadget | 2 | $25

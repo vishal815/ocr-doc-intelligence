@@ -1,0 +1,127 @@
+{
+  "document_id": "541a282a-23e7-4ce2-a03e-87b118d7a0ea",
+  "filename": "table_report.pdf",
+  "page_count": 1,
+  "status": "processed",
+  "error": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "source": "digital_text_layer",
+      "status": "ok",
+      "warning": null,
+      "elements": [
+        {
+          "id": "p1_el1",
+          "type": "heading",
+          "text": "Invoice 2026-114",
+          "reading_order": 1,
+          "bbox": [
+            72.0,
+            32.73999786376953,
+            215.08197021484375,
+            57.5260009765625
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el2",
+          "type": "paragraph",
+          "text": "Billed to: Acme Corp",
+          "reading_order": 2,
+          "bbox": [
+            72.0,
+            65.17500305175781,
+            172.25396728515625,
+            80.28900146484375
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el3",
+          "type": "table",
+          "text": null,
+          "reading_order": 3,
+          "bbox": [
+            72.0,
+            130.0,
+            432.0,
+            196.0
+          ],
+          "confidence": null,
+          "table": {
+            "rows": 3,
+            "cols": 3,
+            "cells": [
+              {
+                "row": 0,
+                "col": 0,
+                "text": "Item",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 0,
+                "col": 1,
+                "text": "Qty",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 0,
+                "col": 2,
+                "text": "Price",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 1,
+                "col": 0,
+                "text": "Widget",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 1,
+                "col": 1,
+                "text": "5",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 1,
+                "col": 2,
+                "text": "$10",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 2,
+                "col": 0,
+                "text": "Gadget",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 2,
+                "col": 1,
+                "text": "2",
+                "bbox": null,
+                "nested_table": null
+              },
+              {
+                "row": 2,
+                "col": 2,
+                "text": "$25",
+                "bbox": null,
+                "nested_table": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

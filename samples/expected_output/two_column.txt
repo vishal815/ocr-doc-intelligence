@@ -1,0 +1,11 @@
+# two_column.pdf
+
+--- Page 1 (source: digital_text_layer) ---
+Column A line 1
+Column A line 2
+Column A line 3
+
+## Two Column Layout Test
+Column B line 1
+Column B line 2
+Column B line 3

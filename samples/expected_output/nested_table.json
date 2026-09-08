@@ -1,0 +1,175 @@
+{
+  "document_id": "0ec64217-f521-4af6-a654-a94ad63569ff",
+  "filename": "nested_table.png",
+  "page_count": 1,
+  "status": "processed",
+  "error": null,
+  "pages": [
+    {
+      "page_number": 1,
+      "source": "ocr",
+      "status": "ok",
+      "warning": null,
+      "elements": [
+        {
+          "id": "p1_el1",
+          "type": "paragraph",
+          "text": "Vendor Invoice Summary",
+          "reading_order": 1,
+          "bbox": [
+            30.0,
+            19.0,
+            339.0,
+            41.0
+          ],
+          "confidence": null,
+          "table": null
+        },
+        {
+          "id": "p1_el2",
+          "type": "table",
+          "text": null,
+          "reading_order": 2,
+          "bbox": [
+            39.0,
+            69.0,
+            803.0,
+            353.0
+          ],
+          "confidence": null,
+          "table": {
+            "rows": 2,
+            "cols": 2,
+            "cells": [
+              {
+                "row": 0,
+                "col": 0,
+                "text": "Category",
+                "bbox": [
+                  40.0,
+                  70.0,
+                  320.0,
+                  130.0
+                ],
+                "nested_table": null
+              },
+              {
+                "row": 0,
+                "col": 1,
+                "text": "Details",
+                "bbox": [
+                  320.0,
+                  70.0,
+                  800.0,
+                  130.0
+                ],
+                "nested_table": null
+              },
+              {
+                "row": 1,
+                "col": 0,
+                "text": "Tax Breakdown",
+                "bbox": [
+                  40.0,
+                  130.0,
+                  320.0,
+                  350.0
+                ],
+                "nested_table": null
+              },
+              {
+                "row": 1,
+                "col": 1,
+                "text": "Type Amount\nTax 5%\nTotal $52.50",
+                "bbox": [
+                  320.0,
+                  130.0,
+                  800.0,
+                  350.0
+                ],
+                "nested_table": {
+                  "rows": 3,
+                  "cols": 2,
+                  "cells": [
+                    {
+                      "row": 0,
+                      "col": 0,
+                      "text": "Type",
+                      "bbox": [
+                        17.0,
+                        52.0,
+                        217.0,
+                        92.0
+                      ],
+                      "nested_table": null
+                    },
+                    {
+                      "row": 0,
+                      "col": 1,
+                      "text": "Amount",
+                      "bbox": [
+                        217.0,
+                        52.0,
+                        377.0,
+                        92.0
+                      ],
+                      "nested_table": null
+                    },
+                    {
+                      "row": 1,
+                      "col": 0,
+                      "text": "Tax",
+                      "bbox": [
+                        17.0,
+                        92.0,
+                        217.0,
+                        132.0
+                      ],
+                      "nested_table": null
+                    },
+                    {
+                      "row": 1,
+                      "col": 1,
+                      "text": "5%",
+                      "bbox": [
+                        217.0,
+                        92.0,
+                        377.0,
+                        132.0
+                      ],
+                      "nested_table": null
+                    },
+                    {
+                      "row": 2,
+                      "col": 0,
+                      "text": "Total",
+                      "bbox": [
+                        17.0,
+                        132.0,
+                        217.0,
+                        172.0
+                      ],
+                      "nested_table": null
+                    },
+                    {
+                      "row": 2,
+                      "col": 1,
+                      "text": "$52.50",
+                      "bbox": [
+                        217.0,
+                        132.0,
+                        377.0,
+                        172.0
+                      ],
+                      "nested_table": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

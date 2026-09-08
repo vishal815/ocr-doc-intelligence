@@ -1,0 +1,13 @@
+# nested_table.png
+
+--- Page 1 (source: ocr) ---
+Vendor Invoice Summary
+
+Category | Details
+Tax Breakdown | Type Amount
+Tax 5%
+Total $52.50
+  [nested table in cell (1,1)]
+    Type | Amount
+    Tax | 5%
+    Total | $52.50

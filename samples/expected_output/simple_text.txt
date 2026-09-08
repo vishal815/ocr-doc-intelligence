@@ -1,0 +1,7 @@
+# simple_text.pdf
+
+--- Page 1 (source: digital_text_layer) ---
+
+## Quarterly Report
+Revenue grew steadily across all regions during the quarter.
+This report summarizes the performance of the sales team for Q1 2026.
