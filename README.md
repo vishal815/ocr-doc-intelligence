@@ -1,12 +1,11 @@
 ---
-title: OCR Document Intelligence Pipeline
-emoji: 📄
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-sdk_version: "1.63.0"
-app_file: streamlit_app.py
-pinned: false
+<img width="1913" height="813" alt="Screenshot 2026-09-08 092826" src="https://github.com/user-attachments/assets/037a4ebf-7466-4a9e-9d5b-3bde186cd3e1" />
+<img width="1917" height="887" alt="Screenshot 2026-09-08 092726" src="https://github.com/user-attachments/assets/5c72228e-acec-4c4b-8b50-74f1799fe99f" />
+<img width="1865" height="862" alt="Screenshot 2026-09-08 092613" src="https://github.com/user-attachments/assets/8bb7825c-03d5-4779-9f81-381a7c3a19b4" />
+<img width="1440" height="777" alt="Screenshot 2026-09-08 092551" src="https://github.com/user-attachments/assets/437d3a0d-3ad1-45ec-8a3c-e2ae5f55c9f9" />
+<img width="1912" height="886" alt="Screenshot 2026-09-08 092516" src="https://github.com/user-attachments/assets/a12a7f32-69de-4477-9fa6-e73b605b2c90" />
+<img width="1908" height="900" alt="Screenshot 2026-09-08 092409" src="https://github.com/user-attachments/assets/aaffa8a0-7b8b-47e4-bb43-edeb3bb2741a" />
+
 ---
 
 # OCR Document Intelligence Pipeline
@@ -14,7 +13,8 @@ pinned: false
 **A local, open-source pipeline that extracts text, headings, tables, and nested tables from PDF and image documents while preserving reading order and page layout — built for the ICSPL AI/ML Developer technical assignment.**
 
 <!-- 🔗 **Live Demo:** _add your Hugging Face Space link here_
-🔗 **Repository:** _add your GitHub link here_ -->
+🔗 **Repository:** [_add your GitHub link here_](https://github.com/vishal815/ocr-doc-intelligence) -->
+-- **Repository:** [GitHub link here_](https://github.com/vishal815/ocr-doc-intelligence) --
 
 ---
 
