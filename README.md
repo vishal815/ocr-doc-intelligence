@@ -3,12 +3,9 @@
 # OCR Document Intelligence Pipeline
 
 **A local, open-source pipeline that extracts text, headings, tables, and nested tables from PDF and image documents while preserving reading order and page layout — built for the ICSPL AI/ML Developer technical assignment.**
-
-<!-- 🔗 **Live Demo:** _add your Hugging Face Space link here_
-🔗 **Repository:** [_add your GitHub link here_](https://github.com/vishal815/ocr-doc-intelligence) -->
+---
 -- **Repository:** [GitHub link here_](https://github.com/vishal815/ocr-doc-intelligence) --
 
----
 ---
 **Demo Output:**
 <img width="1913" height="813" alt="Screenshot 2026-09-08 092826" src="https://github.com/user-attachments/assets/037a4ebf-7466-4a9e-9d5b-3bde186cd3e1" />
